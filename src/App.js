@@ -218,7 +218,7 @@ export default function App() {
         <p className="text-sm">© 2025 GreenTogether Community. All rights reserved.</p>
         <div className="mt-2 flex flex-col sm:flex-row justify-center gap-4 items-center text-sm">
           <a href="#" className="hover:underline">Instagram</a>
-          <a href="mailto:ujjwal.chhibber@gmail.com" className="hover:underline">Email Us</a>
+          <a href="mailto:support@green2gether.in" className="hover:underline">Email Us</a>
           <a href="https://www.linkedin.com/in/ujjwal-chhibber/" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a>
         </div>
       </footer>
